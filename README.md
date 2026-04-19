@@ -30,12 +30,12 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 ### Info
 Instal Kali Linux di Android menggunakan Termux!
 
-The script was originally developed by <a href="https://github.com/EXALAB">EXALAB</a> for <a href="https://github.com/EXALAB/AnLinux-App">AnLinux</a> project.</br>
-This version of script is slightly modified.</br>
-Differences from original:
-- Mounting internal storage (/sdcard) to root (/) is enabled by default
-- Improved output
-- Some improvements in code
+Script Ini Awalnya Dikembangkan Oleh <a href="https://github.com/EXALAB">EXALAB</a> for <a href="https://github.com/EXALAB/AnLinux-App">AnLinux</a> Untuk Projecr.</br>
+Versi Script Ini Sedikit Dimodifikasi.</br>
+Perbedaan Dari Versi Asli:
+- Pemasangan Penyimpanan Internal (/sdcard) Ke root (/) Di Aktifkan Secara default
+  Peningkatan Output
+  Beberapa Perbaikan Pada kode
 ### Cara Penggunaan
 Cukup salin dan tempel kode ini ke baris perintah Termux untuk menginstal Kali Linux:<br/>
 ```
