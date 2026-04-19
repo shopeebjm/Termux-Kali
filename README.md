@@ -15,7 +15,7 @@
 </p>
 
 # Persyaratan
-- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
+- Pasang Aplikasi Termux,Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
 
 Unduh Aplikasi Termux Nya Dibawah Ini
