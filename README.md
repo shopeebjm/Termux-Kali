@@ -42,11 +42,7 @@ Cukup salin dan tempel kode ini ke baris perintah Termux untuk menginstal Kali L
 pkg install wget proot -y && wget https://raw.githubusercontent.com/MasterDevX/KaliTermux/master/InstallKali.sh && bash InstallKali.sh
 ```
 
-Setelah Menginstall,Jalankan Perintah ```
-./start-kali.sh
-
-```
-Untuk Meluncurkan Kali.
+Setelah Menginstall,Jalankan Perintah ```./start-kali.sh``` Untuk Meluncurkan Kali.
 
 # Social Media
 
