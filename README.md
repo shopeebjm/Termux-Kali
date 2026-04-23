@@ -14,7 +14,7 @@
 
 </p>
 
-# KaliTermux
+# Termux-Kali
 ### Info
 Instal Kali Linux di Android menggunakan Termux!
 
