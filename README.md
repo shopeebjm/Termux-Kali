@@ -41,7 +41,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 👇👇
 
-[![termux](https://img.shields.io/badge/Script-83%2B-black.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
+[![termux](https://img.shields.io/badge/Script-83%2B-black.svg?style=flat)](https://sfile.co/YO2gP2LSvYI)
 
 ### Cara Penggunaan
 Cukup Copy Dan Paste Script Yang Kalian Download Tadi Di Browser
