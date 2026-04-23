@@ -18,7 +18,7 @@
 ### Info
 Instal Kali Linux di Android menggunakan Termux!
 
-Script Ini Awalnya Dikembangkan Oleh <a href="https://github.com/EXALAB">EXALAB</a> for <a href="https://github.com/EXALAB/AnLinux-App">AnLinux</a> Untuk Projecr.</br>
+Script Ini Awalnya Dikembangkan Oleh <a href="https://github.com/EXALAB">EXALAB</a> for <a href="https://github.com/EXALAB/AnLinux-App">AnLinux</a> Untuk Project.</br>
 Versi Script Ini Sedikit Dimodifikasi.</br>
 Perbedaan Dari Versi Asli:
 - Pemasangan Penyimpanan Internal (/sdcard) Ke root (/) Di Aktifkan Secara default
