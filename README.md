@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=s+h+o+p+e+e+b+j+m" />
 </p>
 
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
+<p align='center'<a target="_blank" href="https://icons8.com/icon/101665/kali-linux">Kali Linux logo</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <h2 align="center">
   
